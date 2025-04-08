@@ -1,0 +1,33 @@
+# Arquivos Python compilados
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Diretórios de build e distribuição
+build/
+dist/
+*.egg-info/
+
+# Arquivos temporários do sistema
+.DS_Store
+Thumbs.db
+
+# Ambientes virtuais (opcional)
+.venv/
+env/
+venv/
+
+# Arquivos de configuração do PyCharm / VSCode
+.idea/
+.vscode/
+
+# Arquivos de log
+*.log
+
+# Arquivos gerados pelo Jupyter (se usar)
+.ipynb_checkpoints/
+
+# Token PyPI (se tiver usado --config-file)
+.pypirc
