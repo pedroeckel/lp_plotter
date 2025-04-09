@@ -1,3 +1,4 @@
+sympy
 matplotlib
 numpy
-sympy
+pandas

@@ -19,7 +19,7 @@ def is_feasible_point(point: tuple, constraints: list, variables: list) -> bool:
 
 
 # --- Plotagem do modelo ---
-def plot_linear_program(
+def plot_linear_problem(
     objective_type: str,
     objective_expr: sp.Expr,
     constraints: list,
