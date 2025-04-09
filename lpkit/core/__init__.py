@@ -1,0 +1,1 @@
+from .model import to_standard_form
